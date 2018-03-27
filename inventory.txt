@@ -1,0 +1,17 @@
+hammer	10.25
+
+grill	1000
+
+spatula	15.95
+
+paint	25.50
+
+wrench	20.29
+
+gloves	30
+
+
+wood    25.00
+tape    12.34
+watch   42.50
+notebook 3.50
